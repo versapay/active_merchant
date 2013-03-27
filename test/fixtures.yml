@@ -556,6 +556,10 @@ trans_first:
   login: LOGIN
   password: PASSWORD
 
+trans_first_txp:
+  gateway_id: ID
+  registration_key: KEY
+
 transax:
   login: demo
   password: password
